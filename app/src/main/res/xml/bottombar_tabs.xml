@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/fitness"
+        icon="@drawable/home"
+        barColorWhenSelected="@color/dark_ferozi_color"
+        />
+    <tab
+        id="@+id/confidence"
+        icon="@drawable/booking"
+        barColorWhenSelected="@color/dark_ferozi_color"
+        />
+    <tab
+        id="@+id/social"
+        icon="@drawable/services"
+        barColorWhenSelected="@color/dark_ferozi_color"
+        />
+    <tab
+        id="@+id/custom_task"
+        icon="@drawable/media"
+        barColorWhenSelected="@color/dark_ferozi_color"
+        />
+</tabs>

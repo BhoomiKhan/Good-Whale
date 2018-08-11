@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708437955752",
+    "firebase_url": "https://good-whale-d1498.firebaseio.com",
+    "project_id": "good-whale-d1498",
+    "storage_bucket": "good-whale-d1498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708437955752:android:6c071a3fd04f4833",
+        "android_client_info": {
+          "package_name": "com.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708437955752-h87k1viplepjo6radk0ugddqsqiuhcel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp",
+            "certificate_hash": "443af0a9ed2885c082d5db8b8cd04974fa57b814"
+          }
+        },
+        {
+          "client_id": "708437955752-v0vmb44c4oate9j9uttpgpubu0o6adqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI3aVEvyCBde5dA4GHkYafWXgayP0E2Wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708437955752-v0vmb44c4oate9j9uttpgpubu0o6adqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

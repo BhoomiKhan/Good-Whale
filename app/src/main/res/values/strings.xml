@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">FYP</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string-array name="descriptions">
+        <item>Fitness is not about being better than someone else. It's about being better than you used to be</item>
+        <item>Take care of your body. It is the only place you have to live</item>
+        <item>Read more at: https://www.brainyquote.com/quotes/jim_rohn_147499</item>
+        <item>For me, fitness is not just about hitting the gym; it is also about an inner happiness and an overall well-being</item>
+        <item>Fitness starts at home. What you eat is what you will look, just as what you sow is what you reap. </item>
+        <item>Eat good food: eat fruits, vegetables, healthy grains, and don't go for sweet and trite food</item>
+        <item>Fitness is not about being better than someone else. It's about being better than you used to be</item>
+        <item>Take care of your body. It is the only place you have to live</item>
+        <item>Read more at: https://www.brainyquote.com/quotes/jim_rohn_147499</item>
+        <item>For me, fitness is not just about hitting the gym; it is also about an inner happiness and an overall well-being</item>
+        <item>Fitness starts at home. What you eat is what you will look, just as what you sow is what you reap. </item>
+        <item>Eat good food: eat fruits, vegetables, healthy grains, and don't go for sweet and trite food</item>
+        <item>Fitness is not about being better than someone else. It's about being better than you used to be</item>
+        <item>Take care of your body. It is the only place you have to live</item>
+        <item>Read more at: https://www.brainyquote.com/quotes/jim_rohn_147499</item>
+        <item>For me, fitness is not just about hitting the gym; it is also about an inner happiness and an overall well-being</item>
+        <item>Fitness starts at home. What you eat is what you will look, just as what you sow is what you reap. </item>
+        <item>Eat good food: eat fruits, vegetables, healthy grains, and don't go for sweet and trite food</item>
+        <item>Fitness is not about being better than someone else. It's about being better than you used to be</item>
+        <item>Take care of your body. It is the only place you have to live</item>
+        <item>Read more at: https://www.brainyquote.com/quotes/jim_rohn_147499</item>
+        <item>For me, fitness is not just about hitting the gym; it is also about an inner happiness and an overall well-being</item>
+        <item>Fitness starts at home. What you eat is what you will look, just as what you sow is what you reap. </item>
+        <item>Eat good food: eat fruits, vegetables, healthy grains, and don't go for sweet and trite food</item>
+    </string-array>
+
+
+    <string-array name="titles">
+        <item>First exaple task</item>
+        <item>Second exaple task</item>
+        <item>Third exaple task</item>
+        <item>Fourth exaple task</item>
+        <item>Fifth exaple task</item>
+    </string-array>
+
+    <string-array name="photos">
+        <item>http://www.premiergyms.co.uk/holding-images/600x500/Premier-Gym-600x500-1.jpg</item>
+        <item>http://kelleyauctions.net/wp-content/uploads/2017/10/gym-600x500.jpg</item>
+        <item>http://sohogyms.com/wp-content/uploads/2016/07/600x500-soho-models-pt-1.jpg</item>
+        <item>http://www.huntingtoncreekrecovery.com/wp-content/uploads/sites/215/2013/10/HCRC-TourPhotos-600x500-Gym1.jpg</item>
+        <item>http://www.407moves.com/wp-content/uploads/2807799130_01a07ed48b_b-600x500.jpg</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

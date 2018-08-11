@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#68647c</color>
+    <color name="colorPrimaryDark">#4B485B</color>
+    <color name="colorAccent">#f7f7f7</color>
+    <color name="buttoncolor">#d4cbd2</color>
+    <color name="buttoncolor_trans">#80d4cbd2</color>
+    <color name="orange">#8E7D68</color>
+    <color name="ferozi_color">#0ab5e9</color>
+    <color name="light_black_color">#cecbcb</color>
+    <color name="dark_ferozi_color">#049cca</color>
+    <color name="green">#0d8c0b</color>
+
+</resources>

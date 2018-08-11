@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_fitness"
+        android:icon="@drawable/ic_fitness"
+        android:title="Finess" />
+
+    <item
+        android:id="@+id/navigation_self"
+        android:icon="@drawable/ic_self"
+        android:title="Self Grooming" />
+
+    <item
+        android:id="@+id/navigation_social"
+        android:icon="@drawable/ic_social"
+        android:title="socialism" />
+    <item
+        android:id="@+id/navigation_custom"
+        android:icon="@drawable/ic_custom"
+        android:title="Custom" />
+
+</menu>
